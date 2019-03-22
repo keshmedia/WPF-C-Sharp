@@ -1,0 +1,29 @@
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\bin\Debug\search.exe.config
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\bin\Debug\search.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\bin\Debug\search.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search_MarkupCompile.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search_MarkupCompile.lref
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search.g.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search.Properties.Resources.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Debug\search.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\search\search\bin\Debug\search.exe.config
+C:\Users\ennis\Desktop\search\search\bin\Debug\search.exe
+C:\Users\ennis\Desktop\search\search\bin\Debug\search.pdb
+C:\Users\ennis\Desktop\search\search\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\search\search\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\search\search\obj\Debug\search_MarkupCompile.cache
+C:\Users\ennis\Desktop\search\search\obj\Debug\search_MarkupCompile.lref
+C:\Users\ennis\Desktop\search\search\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\search\search\obj\Debug\search.g.resources
+C:\Users\ennis\Desktop\search\search\obj\Debug\search.Properties.Resources.resources
+C:\Users\ennis\Desktop\search\search\obj\Debug\search.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\search\search\obj\Debug\search.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\search\search\obj\Debug\search.exe
+C:\Users\ennis\Desktop\search\search\obj\Debug\search.pdb

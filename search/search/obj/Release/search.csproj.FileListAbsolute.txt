@@ -1,0 +1,15 @@
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\bin\Release\search.exe.config
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\bin\Release\search.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\bin\Release\search.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\MainWindow.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\App.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search_MarkupCompile.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search_MarkupCompile.lref
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\MainWindow.baml
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search.g.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search.Properties.Resources.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\search\search\obj\Release\search.pdb
