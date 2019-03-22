@@ -1,0 +1,75 @@
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\bin\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\bin\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\VS\angelsix\youtube-develop\youtube-develop\WPF\02-TreeViewsAndValueConverters\WpfTreeView\obj\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\VS\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+C:\Users\ennis\Desktop\VS\WpfTreeView\bin\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\VS\WpfTreeView\bin\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\VS\WpfTreeView\obj\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\VS\TreeView\bin\Debug\WpfTreeView.exe.config
+C:\Users\ennis\Desktop\VS\TreeView\bin\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\VS\TreeView\bin\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView.g.resources
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\VS\TreeView\obj\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\VS\My TreeView\bin\Debug\WpfTreeView.exe.config
+C:\Users\ennis\Desktop\VS\My TreeView\bin\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\VS\My TreeView\bin\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView.g.resources
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\VS\My TreeView\obj\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\bin\Debug\WpfTreeView.exe.config
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\bin\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\bin\Debug\WpfTreeView.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView.g.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\My TreeView\obj\Debug\WpfTreeView.pdb
