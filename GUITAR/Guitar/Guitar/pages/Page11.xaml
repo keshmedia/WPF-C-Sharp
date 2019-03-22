@@ -1,0 +1,129 @@
+﻿<Page x:Class="Guitar.pages.Page11"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" 
+        d:DesignHeight="720" d:DesignWidth="1280"
+      Title="Page11">
+    <Page.Resources>
+        <Storyboard x:Key="Storyboard1">
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ellipse2_Copy">
+    <EasingDoubleKeyFrame KeyTime="0" Value="512"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:1.9" Value="-232.111"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.9" Value="-442.333"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="ellipse2_Copy">
+    <EasingDoubleKeyFrame KeyTime="0" Value="-152"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:1.9" Value="-136.333"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.9" Value="-87"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ellipse2">
+    <EasingDoubleKeyFrame KeyTime="0" Value="578"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-2"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="-290"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.25" Value="-358"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.9" Value="-442"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="ellipse2">
+    <EasingDoubleKeyFrame KeyTime="0" Value="76"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="93"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="0"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.25" Value="111.5"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.9" Value="67"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ellipse1">
+    <EasingDoubleKeyFrame KeyTime="0" Value="-734"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-323.333"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:2.3" Value="-67.667"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.9" Value="-384"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="ellipse1">
+    <EasingDoubleKeyFrame KeyTime="0" Value="8"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="16"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:2.3" Value="-87"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.9" Value="-238"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ellipse3">
+    <EasingDoubleKeyFrame KeyTime="0" Value="-506"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="111"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3" Value="154.5"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.9" Value="181"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" 
+       Storyboard.TargetName="ellipse3">
+    <EasingDoubleKeyFrame KeyTime="0" Value="-98"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="-267.667"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-128.5"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:3.9" Value="-127"/>
+</DoubleAnimationUsingKeyFrames>
+<PointAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransformOrigin)" 
+                              Storyboard.TargetName="ellipse2">
+    <EasingPointKeyFrame KeyTime="0" Value="0.5,0.5"/>
+    <EasingPointKeyFrame KeyTime="0:0:1" Value="-1.188,0.69"/>
+    <EasingPointKeyFrame KeyTime="0:0:3.9" Value="0.5,0.5"/>
+</PointAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+        </EventTrigger>
+    </Page.Triggers>
+    <Grid Height="720" Width="1280">
+        <Ellipse x:Name="ellipse1" Width="120" Height="120" 
+      Fill="Pink" Stroke="Black" StrokeThickness="5" 
+      Margin="519.038,504.302,640.961,95.697" 
+      RenderTransformOrigin="0.5,0.5">
+ <Ellipse.RenderTransform>
+     <TransformGroup>
+         <ScaleTransform/>
+         <SkewTransform/>
+         <RotateTransform/>
+         <TranslateTransform/>
+     </TransformGroup>
+ </Ellipse.RenderTransform>
+        </Ellipse>
+
+        <Ellipse x:Name="ellipse2" Width="120" Height="120" 
+      Fill="Pink" Stroke="Black" StrokeThickness="5" 
+      Margin="904.576,430.16,255.423,169.839" 
+      RenderTransformOrigin="0.5,0.5">
+ <Ellipse.RenderTransform>
+     <TransformGroup>
+         <ScaleTransform/>
+         <SkewTransform/>
+         <RotateTransform/>
+         <TranslateTransform/>
+     </TransformGroup>
+ </Ellipse.RenderTransform>
+        </Ellipse>
+
+        <Ellipse x:Name="ellipse3" Width="120" Height="120" 
+     Fill="Pink" Stroke="Black" StrokeThickness="5"  
+     Margin="278.489,313.18,881.51,286.819" 
+     RenderTransformOrigin="0.5,0.5">
+<Ellipse.RenderTransform>
+    <TransformGroup>
+        <ScaleTransform/>
+        <SkewTransform/>
+        <RotateTransform/>
+        <TranslateTransform/>
+    </TransformGroup>
+</Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="ellipse2_Copy" Width="120" Height="120" 
+Fill="Pink" Stroke="Black" StrokeThickness="5" 
+     Margin="904.576,430.16,255.423,169.839" 
+     RenderTransformOrigin="0.5,0.5">
+<Ellipse.RenderTransform>
+    <TransformGroup>
+        <ScaleTransform/>
+        <SkewTransform/>
+        <RotateTransform/>
+        <TranslateTransform/>
+    </TransformGroup>
+</Ellipse.RenderTransform>
+        </Ellipse>
+    </Grid>
+</Page>

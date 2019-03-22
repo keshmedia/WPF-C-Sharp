@@ -1,0 +1,182 @@
+﻿<Window x:Class="Guitar.windows.Window2"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+mc:Ignorable="d"
+ResizeMode="NoResize"
+WindowStartupLocation="CenterScreen" 
+Background="Wheat"
+Title=""  Height="720" Width="1280" >
+    <FlowDocumentReader>
+        <FlowDocument>
+            <Table CellSpacing="5">
+<Table.Columns>
+    <TableColumn/>
+    <TableColumn/>
+    <TableColumn/>
+    <TableColumn/>
+</Table.Columns>
+<TableRowGroup>
+
+    <TableRow Background="DarkCyan" Foreground="White">
+        <TableCell ColumnSpan="3" TextAlignment="Center">
+<Paragraph FontSize="20pt" FontWeight="Bold">Guitar</Paragraph>
+        </TableCell>
+    </TableRow>
+
+    <TableRow>
+        <TableCell ColumnSpan="6">
+            <Paragraph FontSize="20pt" FontWeight="Bold" 
+      Foreground="DarkGreen">about the guitar</Paragraph>
+   </TableCell>
+</TableRow>
+
+<TableRow Foreground="Black">
+   <TableCell  ColumnSpan="9">
+       <Paragraph FontSize="20">
+
+
+           Practicing
+w notes about how to approach practicing with the best frame of mind.
+First, don’t hurt yourself, especially when you’re just starting. You may be 100%
+motivated to learn, but you won’t learn anything if you damage your hand from
+overplaying. It’s easy to do that when you start, because your hands simply haven’t built
+up the muscles they need to play yet. This is more of a problem with acoustic steel string
+guitarists than electric guitarists, because steel string guitars are generally harder to
+play. Give it a little time; the hand strength will come.
+You’ll want to get some essential tools besides the guitar. Get a metronome, and a
+journal. The metronome helps you play in time, but does more than just that. It forces
+you to play music, and not rambling notes and chords. Keeping time with the metronome
+makes you push yourself beyond your comfort zone, so you can grow as a player.
+You say you’re not a writer. That’s okay, but get a journal anyway, and use it to write
+down how well you think you’re doing. You don’t need to write in it every day. But when
+you’ve spent three weeks working on a song or scale or arpeggio exercise, write down
+how it felt to complete it. Also, write down the things you can’t yet do. A year from now,
+you’ll look at what you wrote, and feel great pride at how far you’ve come.
+Good attitude is crucial to your sense of achievement. Putting yourself down because
+you can’t yet make a particular chord shape is not nearly as helpful to you as moving on
+to another chord shape, or reviewing the chords you do know. The technique will come,
+trust me. Stay motivated by writing your goals down, and rewriting them regularly. Read
+how others grew from having no skill, to being players.
+Play for others, maybe a little before you believe you’re ready. Smooth your playing on a
+song or two, and play them for someone. You’ll get a whole new perspective on your
+playing, and what you need to work on. Besides that, any compliments you get will
+motivate you in a powerful way.
+                                
+                                How to Hold the Guitar
+Remember to breathe. It’s easy for your body to get tense when you do something as
+awkward as playing guitar for the first time. This tenseness builds up without your even
+realizing it. Take a break every so often, and just breathe.
+Even if you do everything right, playing might seem uncomfortable at first. It should not
+be painful, though. If you sense any pain at any time, stop immediately. Before long,
+your desire to play will make not holding the guitar feel uncomfortable.
+Choose a chair or seat with the right height. You’ll know it’s the right height because,
+when you sit, your thigh will be angled just slightly upward. Some players pick any chair
+and raise their guitar knee by putting their guitar foot on a stool or stack of phone books.
+The point is to raise the guitar high enough so your hand can get to the frets. It gets real
+tiring to play by putting your guitar foot on tiptoe all the time. It also gets tiring when you
+hunch your entire upper body over so you can see the frets.
+If you’re right-handed, put the guitar on your right knee. Note: classical guitarists would
+use their left knee. It’s tempting to tilt the guitar so you can see the frets, but don’t do it.
+Keep the guitar straight. The neck of the guitar should be angled slightly upward as it
+extends away from your body.
+Now for the fretting hand. Practice making what I call “the claw“ with your left hand. This
+means putting your left thumb halfway between the bottom of the guitar’s neck, and the
+top of the neck. It’s tempting to grab the guitar like you were grabbing a hammer, with
+the thumb wrapping over the top, but you won’t be able to hit all the notes that way. To
+make the claw, keep the thumb at that halfway point on the neck, and crook your wrist
+as if you were trying to make your finger tips hook over the top of the neck.
+If all of this seems too complicated, go for these simplified instructions: look at pictures
+of how other guitarists hold their guitar, and do what feels comfortable for you. By the
+way, some great guitarists, such as Jeff Healy, hold their guitar flat on their lap. 
+Just like the other aspects of learning the guitar, tuning is something you’ll get better at
+the more you do it. The first time you tune, it may be difficult to separate in-tune pitches
+from those out of tune. Electronic tuners are available to help with this, but all you need
+to start is a set of pitch pipes, or some other source that can emit the pitch called
+“Concert A.” You can even use your computer to output this pitch, if you have the right
+software.
+Let’s tune. Once you have your Concert A source, turn it on or do what you need to do to
+make it sound. Holding your guitar as though you were playing it, press your finger onto
+the fifth fret of the first string. (The first string is the thinnest one.) You don’t need to
+press too hard. The Right Hand
+Strumming
+Up until now, we haven’t paid attention to the right hand. When you played songs in this
+book, you worked out for yourself what the right hand was supposed to be doing. We’re
+going to pay closer attention to the right hand in this section, by showing you some
+different strumming and picking patterns.
+When you do these exercises, it might be helpful to hold the pick just at its edge,
+between your thumb and your forefinger, with your whole hand making a loose fist. You
+don’t need to make the fist tight, or put a lot of pressure on the pick. The pointy end of
+the pick should be free to wobble up and down a bit.
+Here’s the most basic strumming pattern. It’s a series of all downstrokes, no upstrokes.
+The downstrokes are shown with a down arrow. Melody: Alternate Picking
+Let’s take a break from strumming chords, and learn an important tool for playing single,
+melodic notes. This will be an important skill when we begin improvising.
+We’re going to learn a picking technique called alternating picking, and we’re going to
+apply this technique to a scale that’s heard in most forms of popular music: the
+pentatonic scale.
+Here’s a melodic line to play that uses alternating picking with the pentatonic scale. To
+play this correctly, follow the up and downstroke markings on the tablature. It will feel
+difficult at first to continue alternating your strokes when you move from one string to
+another, but you’ll get the hang of it with practice. Improvising
+There’s nothing magical about improvising, except the great feeling you get when you hit
+the right notes. In this section we show you how to hit those notes.
+Here are the steps we’re going to approach improvising with:
+• Record yourself playing chord changes.
+• Play back the recording, while you play the pentatonic scale over it.
+• Play with the pentatonic scale: pick any notes from the scale you want.
+• Change to a minor pentatonic scale to add a blues feeling.
+Before you begin doing these steps, you’ll want to practice this set of chord changes
+until you’re fairly smooth at it. In fact, using a metronome while you practice would be
+helpful to you. Here are the chord changes you’ll improvise over. Play these changes
+slowly, with a blues feeling. Playing by Ear
+I was tempted to put this chapter in the main body of the book, except that the major
+scales are covered in the Appendix, and playing by ear depends on you knowing the
+major scale. So, before you tackle this chapter, work through at least one major scale
+form in the Appendix.
+In this section you’re going to learn to play simple melodies by ear. There’s a lot of
+mystique surrounding this ability, but almost anyone can learn how to do it, just as most
+everyone can learn how to speak.
+First of all, you may want to know how playing by ear helps you. What’s the purpose of
+playing by ear? First and foremost, it just feels good when you can hear a piece of music
+and play it back. You feel like you are truly connecting with Music itself, and that time
+slips away. Also, playing by ear helps you correct mistakes and memory problems when
+you go to play a tune. For example, after playing through a new song a couple of times,
+your hands might not feel they totally understand the song. But your “ear” may
+understand it perfectly. When that happens, your playing smooths out the hitches and
+hesitations your hand has.
+Those are just some of the reasons to play by ear. Now, let’s figure out what to play.
+Chances are, you know dozens and dozens of songs already. You know pop tunes from
+the radio and TV. You know nursery rhymes, and maybe some hymns from church or
+the synagogue. And you likely also know some tunes for certain holidays. Christmas
+songs are especially good for learning how to play by ear, because so many people
+know them so well. I want you to have the freedom to choose any song you want, but I
+also want to ensure you choose a song with an easy melody. For that reason, I
+recommend you choose one of the following Christmas songs:
+• Silent night
+• O Christmas Tree
+• Rudolf the red-nosed reindeer
+• Jingle Bells
+• God Rest You Merry, Gentlemen (Comfort and Joy)
+• The First Noel
+• Joy to the World
+Also, Amazing Grace
+This list will give you a good start with some simple melodies. Choose one of the songs,
+and let’s learn to play it by ear.
+There’s a long version and short version to explain how to pick out the melody. I
+recommend starting with the short version first. It’s lacking in the details of how to find
+the melody, but your determination will supply you with those details. The longer version
+is the same basic procedure, but contains more detail. If you have a hard time following
+either version, consult the resources listed at the end of this section.
+
+             </Paragraph>
+         </TableCell>
+         <TableCell>
+         </TableCell>
+     </TableRow>
+ </TableRowGroup>
+            </Table>
+        </FlowDocument>
+    </FlowDocumentReader>
+</Window>

@@ -1,0 +1,85 @@
+﻿<Page x:Class="Guitar.FrameWindows.Page5"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" 
+d:DesignHeight="582" d:DesignWidth="1027"
+Title="Page5">
+    <Page.Resources>
+        <Storyboard x:Key="Storyboard1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-1936"/>
+<EasingDoubleKeyFrame KeyTime="0:0:40" Value="1480"/>
+<EasingDoubleKeyFrame KeyTime="0:0:50" Value="1424"/>
+<EasingDoubleKeyFrame KeyTime="0:1:0" Value="195.921"/>
+<EasingDoubleKeyFrame KeyTime="0:1:9.9" Value="-457.059"/>
+<EasingDoubleKeyFrame KeyTime="0:1:20" Value="-1154.794"/>
+<EasingDoubleKeyFrame KeyTime="0:1:30.1" Value="-1371.139"/>
+<EasingDoubleKeyFrame KeyTime="0:1:40" Value="-1968"/>
+<EasingDoubleKeyFrame KeyTime="0:1:50" Value="952"/>
+<EasingDoubleKeyFrame KeyTime="0:1:59.9" Value="848"/>
+<EasingDoubleKeyFrame KeyTime="0:2:10" Value="-1640"/>
+<EasingDoubleKeyFrame KeyTime="0:2:12" Value="-1864"/>
+<EasingDoubleKeyFrame KeyTime="0:2:15" Value="-149"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="image">
+<EasingDoubleKeyFrame KeyTime="0" Value="1192"/>
+<EasingDoubleKeyFrame KeyTime="0:0:40" Value="1216"/>
+<EasingDoubleKeyFrame KeyTime="0:0:50" Value="-800"/>
+<EasingDoubleKeyFrame KeyTime="0:1:0" Value="-807.841"/>
+<EasingDoubleKeyFrame KeyTime="0:1:9.9" Value="-779.881"/>
+<EasingDoubleKeyFrame KeyTime="0:1:20" Value="-790.911"/>
+<EasingDoubleKeyFrame KeyTime="0:1:30.1" Value="-804.936"/>
+<EasingDoubleKeyFrame KeyTime="0:1:40" Value="-56"/>
+<EasingDoubleKeyFrame KeyTime="0:1:50" Value="800"/>
+<EasingDoubleKeyFrame KeyTime="0:1:59.9" Value="816"/>
+<EasingDoubleKeyFrame KeyTime="0:2:10" Value="840"/>
+<EasingDoubleKeyFrame KeyTime="0:2:12" Value="888"/>
+<EasingDoubleKeyFrame KeyTime="0:2:15" Value="202"/>
+ </DoubleAnimationUsingKeyFrames>
+ <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="image">
+     <EasingDoubleKeyFrame KeyTime="0:2:12" Value="1"/>
+     <EasingDoubleKeyFrame KeyTime="0:2:15" Value="0.205"/>
+ </DoubleAnimationUsingKeyFrames>
+ <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="image">
+     <EasingDoubleKeyFrame KeyTime="0:2:12" Value="1"/>
+     <EasingDoubleKeyFrame KeyTime="0:2:15" Value="0.201"/>
+ </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid Cursor="Hand">
+
+<Image HorizontalAlignment="Left" 
+       Height="154" Margin="851,10,0,0" 
+       VerticalAlignment="Top" Width="166" 
+       Source="pack://siteoforigin:,,,/images/dylan1.png"/>
+<Image HorizontalAlignment="Left" Height="100" 
+       Margin="10,-174,0,0" VerticalAlignment="Top" Width="100"/>
+<Image HorizontalAlignment="Left" Height="100" 
+       Margin="170,-174,0,0" VerticalAlignment="Top" Width="100"/>
+<Image HorizontalAlignment="Left" Height="100" 
+       Margin="358,-174,0,0" VerticalAlignment="Top" Width="100"/>
+<Image HorizontalAlignment="Left" Height="100" 
+       Margin="558,-174,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image x:Name="image" HorizontalAlignment="Left" 
+       Height="3305" Margin="-1756,-1281,-2063,-1442" 
+       VerticalAlignment="Top" Width="4846" 
+ Source="/Guitar;component/images/frfr.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+    </Grid>
+</Page>

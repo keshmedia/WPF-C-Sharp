@@ -1,0 +1,249 @@
+﻿<Page x:Class="Guitar.FrameWindows.Page6"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+ xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" 
+ d:DesignHeight="582" d:DesignWidth="1027"
+ Title="Page6">
+    <Page.Resources>
+        <Storyboard x:Key="Storyboard1">
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image">
+    <EasingDoubleKeyFrame KeyTime="0" Value="998"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="246"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="image">
+    <EasingDoubleKeyFrame KeyTime="0" Value="84"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="131"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image1">
+    <EasingDoubleKeyFrame KeyTime="0" Value="1172"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="1094"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="image1">
+    <EasingDoubleKeyFrame KeyTime="0" Value="514"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="92"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="image">
+    <EasingDoubleKeyFrame KeyTime="0" Value="1.468"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="1.013"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="image">
+    <EasingDoubleKeyFrame KeyTime="0" Value="1.768"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="1.296"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="image1">
+    <EasingDoubleKeyFrame KeyTime="0" Value="1.493"/>
+    <EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="1.188"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="image1">
+<EasingDoubleKeyFrame KeyTime="0" Value="1.339"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="1.072"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image2">
+<EasingDoubleKeyFrame KeyTime="0" Value="-704"/>
+<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="666"/>
+<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="-14"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="image2">
+<EasingDoubleKeyFrame KeyTime="0" Value="48"/>
+<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="60"/>
+<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="4"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="image2">
+ <EasingDoubleKeyFrame KeyTime="0" Value="0.898"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="1.254"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="0.949"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="image2">
+<EasingDoubleKeyFrame KeyTime="0" Value="0.859"/>
+<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="1.247"/>
+<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="0.93"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="image2">
+<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="198.026"/>
+<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="label">
+<EasingDoubleKeyFrame KeyTime="0" Value="-58"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="-59"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.1" Value="-59"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.3" Value="-40"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.5" Value="-117.027"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.7" Value="-85.711"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.9" Value="5.908"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.2" Value="-118.373"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.6" Value="-109.891"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8" Value="-27.409"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8.4" Value="-33.727"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9" Value="84.796"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9.6" Value="-103.482"/>
+<EasingDoubleKeyFrame KeyTime="0:0:10" Value="-59"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="label">
+<EasingDoubleKeyFrame KeyTime="0" Value="-158"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="15"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.9" Value="24.865"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5" Value="-2.466"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.1" Value="26.743"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.2" Value="3.36"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.3" Value="32.457"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.4" Value="-8.063"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.5" Value="36.286"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.6" Value="3.657"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.7" Value="27.756"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.8" Value="13.297"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.9" Value="23.171"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6" Value="8.801"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.1" Value="26.781"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.3" Value="44.818"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.5" Value="-5.172"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.7" Value="34.581"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.9" Value="42.97"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.2" Value="25.586"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.6" Value="-4.926"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8" Value="49.228"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8.4" Value="9.982"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9" Value="9.239"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9.6" Value="8.496"/>
+<EasingDoubleKeyFrame KeyTime="0:0:10" Value="8"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="label1">
+<EasingDoubleKeyFrame KeyTime="0" Value="800"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="14"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="label1">
+<EasingDoubleKeyFrame KeyTime="0" Value="6"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="32"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="label">
+<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="1.04"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.1" Value="1.04"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.3" Value="1.098"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.5" Value="0.864"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.7" Value="0.959"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.2" Value="0.98109090909090912"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.6" Value="0.981"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8" Value="1.216"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8.4" Value="1.181"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9" Value="0.739"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9.6" Value="1.23"/>
+<EasingDoubleKeyFrame KeyTime="0:0:10" Value="1.04"/>
+</DoubleAnimationUsingKeyFrames>
+<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="label">
+ <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:4.8" Value="1.54"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:4.9" Value="1.853"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5" Value="0.985"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.1" Value="1.912"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.2" Value="1.17"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.3" Value="2.094"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.4" Value="0.808"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.5" Value="2.216"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.6" Value="1.18"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.7" Value="1.945"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.8" Value="1.486"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:5.9" Value="1.799"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:6" Value="1.343"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:6.1" Value="1.914"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:6.3" Value="2.487"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:6.5" Value="0.9"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:6.7" Value="2.162"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:7.2" Value="1.9318181818181819"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:7.6" Value="1.043"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:8" Value="2.74"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:8.4" Value="1.471"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:9" Value="1.414"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:9.6" Value="1.356"/>
+ <EasingDoubleKeyFrame KeyTime="0:0:10" Value="1.318"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+        </EventTrigger>
+    </Page.Triggers>
+    <Grid>
+        <Image x:Name="image2" HorizontalAlignment="Left" 
+               Height="227" Margin="28,10,0,0" 
+               VerticalAlignment="Top" Width="236" 
+               Source="/Guitar;component/images/Break.png" 
+               RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+ <TransformGroup>
+     <ScaleTransform/>
+     <SkewTransform/>
+     <RotateTransform/>
+     <TranslateTransform/>
+ </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="image1" HorizontalAlignment="Left" 
+    Height="224" Margin="-1017,289,0,0" 
+    VerticalAlignment="Top" Width="276" 
+    Source="/Guitar;component/images/tea1.png" 
+    RenderTransformOrigin="0.5,0.5">
+ <Image.RenderTransform>
+ <TransformGroup>
+     <ScaleTransform/>
+     <SkewTransform/>
+     <RotateTransform/>
+     <TranslateTransform/>
+ </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="image" HorizontalAlignment="Left" 
+    Height="250" Margin="443,237,0,0" 
+    VerticalAlignment="Top" Width="299" 
+    Source="/Guitar;component/images/Coffee.png" 
+    RenderTransformOrigin="0.5,0.5">
+ <Image.RenderTransform>
+     <TransformGroup>
+         <ScaleTransform/>
+         <SkewTransform/>
+         <RotateTransform/>
+         <TranslateTransform/>
+     </TransformGroup>
+ </Image.RenderTransform>
+        </Image>
+        <TextBlock Name="TBCountDown" 
+TextAlignment="Center" 
+VerticalAlignment="Center" 
+HorizontalAlignment="Center" 
+FontSize="200" Margin="50 -80 0 0" Foreground="Orange"/>
+
+<Label x:Name="label1" Content="Minutes      Seconds" 
+       Foreground="LightBlue" FontSize="50" 
+       HorizontalAlignment="Center" 
+       Margin="303,73,266,429" Width="458" 
+       RenderTransformOrigin="0.5,0.5">
+    <Label.RenderTransform>
+        <TransformGroup>
+            <ScaleTransform/>
+            <SkewTransform/>
+            <RotateTransform/>
+            <TranslateTransform/>
+        </TransformGroup>
+    </Label.RenderTransform>
+</Label>
+<Label x:Name="label" 
+  Content="YOU HAVE A BREAK FOR 30 MINUTES" 
+        Foreground="Aqua" FontSize="35" 
+    HorizontalAlignment="Center" 
+               Margin="369,10,0,0" 
+               VerticalAlignment="Top" Width="658" 
+   Height="63" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+  <TransformGroup>
+      <ScaleTransform/>
+      <SkewTransform/>
+      <RotateTransform/>
+      <TranslateTransform/>
+  </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+    </Grid>
+</Page>

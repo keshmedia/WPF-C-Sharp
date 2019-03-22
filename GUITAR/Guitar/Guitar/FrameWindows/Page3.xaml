@@ -1,0 +1,287 @@
+﻿<Page x:Class="Guitar.FrameWindows.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" 
+      d:DesignHeight="582" d:DesignWidth="1027"
+      Title="Page3">
+    <Page.Resources>
+        <Storyboard x:Key="Storyboard1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="image">
+<EasingDoubleKeyFrame KeyTime="0" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:0.233" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:0.467" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:0.933" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:1.167" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:1.4" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:1.833" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:2.067" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:2.3" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:2.533" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:2.767" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:3" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:3.1" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:3.333" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:3.567" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:3.8" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.033" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.267" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.5" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.7" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:4.933" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.167" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.4" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.633" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:5.867" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.1" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.3" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.533" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:6.767" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.233" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.467" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.7" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:7.9" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8.133" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8.367" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8.6" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:8.833" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9.067" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9.3" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9.4" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9.633" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:9.867" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:10.1" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:10.333" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:10.567" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:10.8" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:11" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:11.233" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:11.467" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:11.7" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:11.933" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:12.167" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:12.4" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:12.5" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:12.733" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:12.967" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:13.2" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:13.433" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:13.667" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:13.9" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:14.1" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:14.333" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:14.567" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:14.8" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:15.033" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:15.267" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:15.5" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:15.6" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:15.833" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:16.067" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:16.3" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:16.533" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:16.767" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:17" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:17.2" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:17.433" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:17.667" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:17.9" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:18.133" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:18.367" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:18.6" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:18.8" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:19.033" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:19.267" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:19.5" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:19.733" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:19.967" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:20.2" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:20.4" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:20.633" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:20.867" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:21.1" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:21.333" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:21.567" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:21.8" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:21.9" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:22.133" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:22.367" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:22.6" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:22.833" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:23.067" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:23.3" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:23.5" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:23.733" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:23.967" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:24.2" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:24.433" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:24.667" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:24.9" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:25" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:25.233" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:25.467" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:25.7" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:25.933" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:26.167" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:26.4" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:26.6" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:26.833" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:27.067" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:27.3" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:27.533" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:27.767" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:28" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:28.1" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:28.333" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:28.567" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:28.8" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:29.033" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:29.267" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:29.5" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:29.7" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:29.933" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:30.167" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:30.4" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:30.633" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:30.867" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:31.1" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:31.3" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:31.533" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:31.767" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:32" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:32.233" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:32.467" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:32.7" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:32.9" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:33.133" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:33.367" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:33.6" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:33.833" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:34.067" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:34.3" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:34.4" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:34.633" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:34.867" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:35.1" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:35.333" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:35.567" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:35.8" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:36" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:36.233" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:36.467" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:36.7" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:36.933" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:37.167" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:37.4" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:37.5" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:37.733" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:37.967" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:38.2" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:38.433" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:38.667" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:38.9" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:39.1" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:39.333" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:39.567" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:39.8" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:40.033" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:40.267" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:40.5" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:40.6" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:40.833" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:41.067" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:41.3" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:41.533" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:41.767" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:42" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:42.2" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:42.433" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:42.667" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:42.9" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:43.133" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:43.367" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:43.6" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:43.8" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:44.033" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:44.267" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:44.5" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:44.733" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:44.967" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:45.2" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:45.4" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:45.633" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:45.867" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:46.1" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:46.333" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:46.567" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:46.8" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:46.9" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:47.133" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:47.367" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:47.6" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:47.833" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:48.067" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:48.3" Value="-65.764"/>
+<EasingDoubleKeyFrame KeyTime="0:0:48.5" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:48.733" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:48.967" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:49.2" Value="-47.654"/>
+<EasingDoubleKeyFrame KeyTime="0:0:49.433" Value="-69.902"/>
+<EasingDoubleKeyFrame KeyTime="0:0:49.667" Value="-29.985"/>
+<EasingDoubleKeyFrame KeyTime="0:0:49.9" Value="-65.764"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="Storyboard2">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="850"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="792"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:8" Value="18"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="image1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-20"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-14"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:8" Value="-4"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+            <BeginStoryboard Storyboard="{StaticResource Storyboard2}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid>
+        <Image x:Name="image1" HorizontalAlignment="Left" 
+               Height="528" Margin="295,44,-489,0" 
+               VerticalAlignment="Top" Width="1221" 
+               Source="/Guitar;component/images/s2.png" 
+               RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="611" 
+               Margin="235,-141,-100,0" VerticalAlignment="Top" Width="892" 
+               Source="/Guitar;component/images/ttt.png" 
+               RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-52.49"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+    </Grid>
+</Page>

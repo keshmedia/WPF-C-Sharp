@@ -1,0 +1,110 @@
+﻿<Page x:Class="Guitar.FrameWindows.Page9"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+xmlns:local="clr-namespace:Guitar.FrameWindows"
+mc:Ignorable="d" 
+d:DesignHeight="700" d:DesignWidth="800"
+Title="Page9">
+    <Grid >
+<Grid.ColumnDefinitions>
+    <ColumnDefinition />
+    <ColumnDefinition />
+</Grid.ColumnDefinitions>
+
+<StackPanel Grid.Column="0" 
+  Orientation="Vertical" Margin="60 20 60 20" >
+    <Border BorderBrush="Purple" 
+     BorderThickness="3" CornerRadius="30">
+     <Label Height="50" Content="CHORDS" 
+       FontSize="30" FontWeight="Bold" 
+      HorizontalAlignment="Center"
+      Foreground="Orange" 
+      Width="auto"></Label>
+    </Border>
+ 
+    <Button x:Name="Btn1" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the A chord" Margin="5 40 5 5"
+  FontSize="30" FontWeight="Bold" 
+  Foreground="Purple" Click="Btn1_Click"></Button>
+
+    <Button x:Name="Btn2" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the B chord" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+   Foreground="Purple" Click="Btn2_Click"></Button>
+
+    <Button x:Name="Btn3" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the C chord" Margin="5"
+   FontSize="30" FontWeight="Bold"
+  Foreground="Purple" Click="Btn3_Click"></Button>
+
+    <Button x:Name="Btn4" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the D chord" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+   Foreground="Purple" Click="Btn4_Click"></Button>
+
+    <Button x:Name="Btn5" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the E chord" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+   Foreground="Purple" Click="Btn5_Click"></Button>
+
+    <Button x:Name="Btn6" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the F chord" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+  Foreground="Purple" Click="Btn6_Click"></Button>
+
+    <Button x:Name="Btn7" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the G chord" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+  Foreground="Purple" Click="Btn7_Click"></Button>
+</StackPanel>
+
+<!--STACK PANEL 2-->
+<StackPanel Grid.Column="1" 
+     Orientation="Vertical" Margin="60 20 60 20" >
+    <Border BorderBrush="Purple" 
+   BorderThickness="3" CornerRadius="30">
+ <Label Height="50" Content="TUNING NOTES" 
+   FontSize="30" FontWeight="Bold" 
+    HorizontalAlignment="Center"
+      Foreground="Orange" Width="auto"></Label>
+    </Border>
+
+    <Button x:Name="Btn8" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the E note" Margin="5 40 5 5"
+  FontSize="30" FontWeight="Bold" 
+  Foreground="Purple" Click="Btn8_Click"></Button>
+
+    <Button x:Name="Btn9" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the A note" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+   Foreground="Purple" Click="Btn9_Click"></Button>
+
+    <Button x:Name="Btn10" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the D note" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+  Foreground="Purple" Click="Btn10_Click"></Button>
+
+    <Button x:Name="Btn11" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the G note" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+  Foreground="Purple" Click="Btn11_Click"></Button>
+
+    <Button x:Name="Btn12" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the B note" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+  Foreground="Purple" Click="Btn12_Click"></Button>
+
+    <Button x:Name="Btn13" Style="{StaticResource btnBlue}" 
+  Height="50" Content="the E note" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+   Foreground="Purple" Click="Btn13_Click"></Button>
+
+    <Button x:Name="Btn14" Style="{StaticResource btnBlue}" 
+  Height="50" Content="information" Margin="5"
+   FontSize="30" FontWeight="Bold" 
+  Foreground="Purple" Click="Btn14_Click"></Button>
+</StackPanel>
+    </Grid>
+</Page>

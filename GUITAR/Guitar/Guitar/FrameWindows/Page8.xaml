@@ -1,0 +1,35 @@
+﻿<Page x:Class="Guitar.FrameWindows.Page8"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+mc:Ignorable="d" 
+d:DesignHeight="582" d:DesignWidth="1027"
+Title="Page8">
+
+    <Grid>
+ <Grid.ColumnDefinitions>
+     <ColumnDefinition/>
+     <ColumnDefinition/>
+ </Grid.ColumnDefinitions>
+ <Grid.RowDefinitions>
+     <RowDefinition/>
+     <RowDefinition/>
+ </Grid.RowDefinitions>
+
+<Calendar Grid.Column="1" Grid.Row="0"
+          VerticalAlignment="Top" 
+          HorizontalAlignment="Right"></Calendar>
+<InkCanvas Grid.Column="0" Grid.Row="0" Background="LightGray" 
+           Margin="0,0,183,10" Grid.RowSpan="2" Grid.ColumnSpan="2" ></InkCanvas>
+<Rectangle Grid.Column="1" Fill="Black" 
+           Margin="336.5,173,-3,10" 
+           Grid.RowSpan="2" ></Rectangle>
+<TextBlock Padding="20 20 20 0" TextAlignment="Left"  
+           Foreground="DarkOrange" 
+           Text="write on the left panel with you're mouse by clicking and dragging. 
+           Above is a calender to see how far you have come since you started playing guitar" 
+           FontSize="22" TextWrapping="Wrap" Grid.Column="1" 
+           Margin="336.5,173,-4,10" Grid.RowSpan="2"></TextBlock>
+    </Grid>
+</Page>
