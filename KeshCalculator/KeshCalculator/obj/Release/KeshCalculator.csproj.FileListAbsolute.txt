@@ -1,0 +1,15 @@
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\bin\Release\KeshCalculator.exe.config
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\bin\Release\KeshCalculator.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\bin\Release\KeshCalculator.pdb
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\MainWindow.baml
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\MainWindow.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\App.g.cs
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\KeshCalculator_MarkupCompile.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\KeshCalculator_MarkupCompile.lref
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\App.baml
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\KeshCalculator.g.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\KeshCalculator.Properties.Resources.resources
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\KeshCalculator.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\KeshCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\KeshCalculator.exe
+C:\Users\ennis\Desktop\myFiles\Visual Studio\KeshCalculator\KeshCalculator\obj\Release\KeshCalculator.pdb
